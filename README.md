@@ -21,8 +21,8 @@ Note: pandas is pinned to 2.3.2 because 'LSWMD.pkl' was saved with an old pandas
 
 ## Roadmap
 - [x] Explore the data
-- [ ] scikit-learn baseline
-- [ ] CNN in PyTorch, handling class imbalance
+- [x] scikit-learn baseline
+- [x] CNN in PyTorch, handling class imbalance
 - [ ] Evaluation: confusion matrix, per-class precision/recall
 - [ ] FastAPI endpoint
 - [ ] Docker
